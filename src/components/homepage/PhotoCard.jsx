@@ -4,7 +4,6 @@ import Link from "next/link";
 import { BiDownload } from "react-icons/bi";
 import { FaHeart } from "react-icons/fa6";
 
-
 const PhotoCard = ({ photo }) => {
   return (
     <Card className="border rounded-xl hover:shadow-md transiton-all">
